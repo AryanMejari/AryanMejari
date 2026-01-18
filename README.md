@@ -5,31 +5,25 @@
 <hr>
 <p>
 
-<h1 align="center">Hi 👋, I'm Dishant Parag Zaveri</h1>
+<h1 align="center">Hi 👋, I'm Aryan Samir Mejari</h1>
 <h3 align="center">A passionate AI ML and App Developer(Flutter and React Native) from India</h3>
 
- - 🎓 **Master's in Computer Science student at Texas A&M University ACTIVELY LOOKING FOR SPRING 2026 INTERNSHIPS**.
-- 🔭 I’m currently working on **Software Development, Data Science and Machine Learning**
-- 🌱 I’m currently learning **Frontend Web Development - React and Backend Development - Node**
-- 👯 I’m looking to collaborate on **Open Source, Flutter, React Native, and Machine Learning Projects**
-- 📫 How to reach me **zaveridishant@gmail.com**
+- 🎓 **B.Tech in Computer Science and Engineering student at Fr Conceicao Rodrigues College of Engineering ACTIVELY LOOKING FOR 2026 INTERNSHIPS**.
+- 🎓 **Completed Diploma in Computer Engineering from Thakur Polytechnic**.
+- 🔭 I’m currently working on **AI Agent Development, Automations, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Generative AI, Project Managment and Database Handling and Administration**
+- 👯 I’m looking to collaborate on **Open Source, Full Stack, App Development, and Machine Learning Projects**
+- 📫 How to reach me **aryanmejari1406@gmail.com**
 - 👨‍💻 Freelancer
-- ⚡ Fun fact: I can spend my entire day in the gym.
-- 🥇 Winner of Singapore-India Hackathon '23.
-- 🥇 Winner of Smart India Hackathon '22.
-- 🥇 Finalist UNESCO India Africa Hackathon '22.
-- 🥇 Finalist Luxembourg-India Hackathon '23.
-- 🥇 Winner of IIT Bombay's Techfest's HERE Hackathon '23.
-- 🥇 Winner of Codeshastra 9.0 '23.
-- 🥇 AIR 7 at national cybersecurity competition Pentathon 2024
-- 🥇 2nd place at VJTI's 24 Hours Hackathon Technovanza 2022.
-- 🥇 2nd place at TSEC's Hackathon RUBIX 2023.
-- 🥇 3rd place at DJ Sanghvi's Hackathon Synergy 2024.
-- 🥇 3rd place at TCET's Hackathon Hackanova 2022.
-- 🥇 3rd place at DJ Sanghvi's Hackathon ClashOfCodes 2023.
-- 🥇 3rd place at Codeshastra 9.0 '24.
-- 🥇 3rd place at Synergy '24.
-- 🥇 Samsung Solve For Tomorrow 2022 top 50.
+- ⚡ Fun fact: I can spend my entire day playing Cricket.
+- 🥇 1st ranker in academic year 2022-2023 at Thakur Polytechnic.
+- 🥇 1st ranker in academic year 2023-2024 at Thakur Polytechnic.
+- 🥇 1st ranker in academic year 2024-2025 at Thakur Polytechnic..
+- 🥇 Best Outgoing Student from Thakur polytechnic 2025
+- 🥇 1st Runner up Model making competition 2025
+- 🥇 1st Runner up Pitch Room competition 2023
+- 🥇 Attended "Youth Leadership and Career Development Workshop" organized by Ratan Tata Maharashtra State Skills University (RT-MSSU) 2025
+
  
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
     alt="dishantzaveri" /> 
@@ -85,11 +79,11 @@ lab-1-debugging-with-gdb-0 secs              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dishantzaveri&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+  <a href="https://github.com/AryanMejari/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AryanMejari&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantzaveri&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
+  <a href="https://github.com/AryanMejari/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMejari&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dishantzaveri&column=6&theme=onedark" align="center"/>
@@ -98,7 +92,7 @@ lab-1-debugging-with-gdb-0 secs              ██░░░░░░░░░�
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=dishantzaveri&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AryanMejari&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/dishantzaveri/github-readme-activity-graph">
@@ -114,5 +108,4 @@ The snake's eating up my contributions🐍.
 </p>
 <br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
+
