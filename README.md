@@ -25,13 +25,12 @@
 - 🥇 Attended "Youth Leadership and Career Development Workshop" organized by Ratan Tata Maharashtra State Skills University (RT-MSSU) 2025
 
  
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaver&label=Profile%20views&color=0e75b6&style=flat"
     alt="dishantzaveri" /> 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dishantzaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishantzaveri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dishant-zaveri-4301471b9" target="https://www.linkedin.com/in/dishant-zaveri-4301471b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-mejari-5b73862b9/" target="https://www.linkedin.com/in/dishant-zaveri-4301471b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
 <a href="https://instagram.com/dishant_zaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_zaveri" height="30" width="40" /></a>
 </p>
 
@@ -43,9 +42,6 @@
 
 <br>
 
-<h1 align="center"> 📊 Badge Board: </h1>
-
-[![@dishantzaveri's Holopin board](https://holopin.me/dishantzaveri)](https://holopin.io/@dishantzaveri)
 
 <h1 align="center"> 📊 Statistics: </h1>
 
@@ -53,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                314 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-🌆 Daytime                418 commits         █████████░░░░░░░░░░░░░░░░   35.30 % 
-🌃 Evening                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-🌙 Night                  257 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+🌞 Morning                31 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌆 Daytime                41 commits         █████████░░░░░░░░░░░░░░░░   35.30 % 
+🌃 Evening                19 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌙 Night                  25 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 ```
 
 
@@ -64,10 +60,10 @@
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              ██████████████████░░░░░░░   72.86 % 
-SSH Config               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Python                                 ██████████████████░░░░░░░   72.86 % 
+SSH Config                             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Markdown                               ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Makefile                               █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🐱‍💻 Projects: 
 lab-0-spring26           0 secs              ████████████████████░░░░░   78.06 % 
@@ -86,7 +82,7 @@ lab-1-debugging-with-gdb-0 secs              ██░░░░░░░░░�
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMejari&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dishantzaveri&column=6&theme=onedark" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanMejari&column=6&theme=onedark" align="center"/>
 </div>
 
 <h1 align="center"> 🔥 Contributions: </h1>
@@ -95,8 +91,8 @@ lab-1-debugging-with-gdb-0 secs              ██░░░░░░░░░�
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AryanMejari&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/dishantzaveri/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dishantzaveri&theme=react-dark&hide_border=true">
+  <a href="https://github.com/AryanMejari/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=AryanMejari&theme=react-dark&hide_border=true">
   </a>
 </p>
 
